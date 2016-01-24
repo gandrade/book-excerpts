@@ -1,0 +1,7 @@
+bookexcerpts-mongodb:
+  container_name: bookexcerpts-mongodb
+  image: mongo:3.0.7
+  # volumes:
+  #   - ~/volumes/jhipster/bookexcerpts/mongodb/:/data/db/
+  ports:
+    - "27017:27017"

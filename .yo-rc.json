@@ -1,0 +1,26 @@
+{
+  "generator-jhipster": {
+    "baseName": "bookexcerpts",
+    "packageName": "io.gihub.com.gandrade.bookexcerpts",
+    "packageFolder": "io/gihub/com/gandrade/bookexcerpts",
+    "authenticationType": "session",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": "no",
+    "useSass": false,
+    "buildTool": "gradle",
+    "frontendBuilder": "grunt",
+    "enableTranslation": true,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "8b861d25c32211e1ab299216b5ffb2e3bd38813e",
+    "testFrameworks": [
+      "gatling",
+      "cucumber",
+      "protractor"
+    ]
+  }
+}
