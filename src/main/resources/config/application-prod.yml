@@ -36,7 +36,7 @@ spring:
     data:
         elasticsearch:
             cluster-name:
-            cluster-nodes: paas:55e51a850c6943ff020a6fa85f3e159f@dori-us-east-1.searchly.com 
+            cluster-nodes: https://paas:55e51a850c6943ff020a6fa85f3e159f@dori-us-east-1.searchly.com  
     mail:
         host: localhost
         port: 25

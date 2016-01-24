@@ -8,6 +8,7 @@ ext {
 
 dependencies {
     compile group: 'org.springframework.boot', name: 'spring-boot-starter-tomcat', version: spring_boot_version
+    compile 'io.searchbox:jest:2.0.0'
 }
 
 bootRun {
