@@ -1,0 +1,4 @@
+/**
+ * Spring social configuration.
+ */
+package io.gihub.com.gandrade.bookexcerpts.security.social;
