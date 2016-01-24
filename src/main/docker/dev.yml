@@ -1,7 +1,0 @@
-bookexcerpts-dev-mongodb:
-  container_name: bookexcerpts-dev-mongodb
-  image: mongo:3.0.7
-  # volumes:
-  #   - ~/volumes/jhipster/bookexcerpts/dev-mongodb/:/data/db/
-  ports:
-    - "27017:27017"
